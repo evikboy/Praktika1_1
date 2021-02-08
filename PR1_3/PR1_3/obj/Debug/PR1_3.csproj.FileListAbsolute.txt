@@ -1,0 +1,7 @@
+C:\Users\Ez\source\repos\PR1_3\PR1_3\bin\Debug\PR1_3.exe.config
+C:\Users\Ez\source\repos\PR1_3\PR1_3\bin\Debug\PR1_3.exe
+C:\Users\Ez\source\repos\PR1_3\PR1_3\bin\Debug\PR1_3.pdb
+C:\Users\Ez\source\repos\PR1_3\PR1_3\obj\Debug\PR1_3.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR1_3\PR1_3\obj\Debug\PR1_3.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR1_3\PR1_3\obj\Debug\PR1_3.exe
+C:\Users\Ez\source\repos\PR1_3\PR1_3\obj\Debug\PR1_3.pdb
